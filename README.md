@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+Wanna know more about me?
+```console
+~: npx andreferreira
+```
 
 <!--
 **adnux/adnux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
